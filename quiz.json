@@ -1,5 +1,45 @@
 {
     "quiz": [
+
+
+      {
+        "question": "What is the night when the Qur'an was first revealed called?",
+        "options": ["Laylat al-Qadr", "Laylat al-Miraj", "Laylat al-Bara’ah", "Laylat al-Isra"],
+        "answer": "Laylat al-Qadr"
+      },
+      {
+        "question": "Which Surah is known as 'The Heart of the Qur'an'?",
+        "options": ["Surah Al-Baqarah", "Surah Yasin", "Surah Al-Fatiha", "Surah Ar-Rahman"],
+        "answer": "Surah Yasin"
+      }
+    ],
+    "trueOrFalse": [
+      {
+        "question": "The Prophet Muhammad (PBUH) was born in the city of Madinah.",
+        "options":["true","false"],
+        "answer": false
+      },
+      {
+        "question": "Zakat is one of the Five Pillars of Islam.",
+        "options":["true","false"],
+        "answer": true
+      },
+      {
+        "question": "Muslims pray five times a day facing the Kaaba in Mecca.",
+        "options":["true","false"],
+        "answer": true
+      },
+      {
+        "question": "Eid al-Adha commemorates the willingness of Prophet Ibrahim (AS) to sacrifice his son.",
+        "options":["true","false"],
+        "answer": true
+      },
+      {
+        "question": "The Qur'an was revealed over 33 years.",
+        "options":["true","false"],
+        "answer": false
+      },
+
       {
         "question": "What is the first pillar of Islam?",
         "options": ["Salah (Prayer)", "Shahada (Declaration of Faith)", "Zakat (Charity)", "Sawm (Fasting)"],
