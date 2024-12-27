@@ -1,0 +1,55 @@
+{
+    "quiz": [
+      {
+        "question": "What is the first pillar of Islam?",
+        "options": ["Salah (Prayer)", "Shahada (Declaration of Faith)", "Zakat (Charity)", "Sawm (Fasting)"],
+        "answer": "Shahada (Declaration of Faith)"
+      },
+      {
+        "question": "How many times a day are Muslims required to pray?",
+        "options": ["3", "5", "7", "10"],
+        "answer": "5"
+      },
+      {
+        "question": "Which angel delivered the revelation of the Quran to Prophet Muhammad (PBUH)?",
+        "options": ["Angel Jibril (Gabriel)", "Angel Mikail (Michael)", "Angel Israfil", "Angel Azrael"],
+        "answer": "Angel Jibril (Gabriel)"
+      },
+      {
+        "question": "What is the holy book of Islam?",
+        "options": ["Torah", "Bible", "Quran", "Vedas"],
+        "answer": "Quran"
+      },
+      {
+        "question": "During which month do Muslims fast from dawn to sunset?",
+        "options": ["Muharram", "Rajab", "Ramadan", "Dhul-Hijjah"],
+        "answer": "Ramadan"
+      },
+      {
+        "question": "What is the name of the last Prophet in Islam?",
+        "options": ["Prophet Musa (Moses)", "Prophet Isa (Jesus)", "Prophet Muhammad (PBUH)", "Prophet Ibrahim (Abraham)"],
+        "answer": "Prophet Muhammad (PBUH)"
+      },
+      {
+        "question": "How many chapters (Surahs) are there in the Quran?",
+        "options": ["100", "114", "120", "150"],
+        "answer": "114"
+      },
+      {
+        "question": "What is the name of the Islamic pilgrimage to Mecca?",
+        "options": ["Umrah", "Hajj", "Ziyarah", "Tawaf"],
+        "answer": "Hajj"
+      },
+      {
+        "question": "What does the term 'Zakat' mean?",
+        "options": ["Prayer", "Charity", "Fasting", "Pilgrimage"],
+        "answer": "Charity"
+      },
+      {
+        "question": "In which city was Prophet Muhammad (PBUH) born?",
+        "options": ["Medina", "Jerusalem", "Mecca", "Cairo"],
+        "answer": "Mecca"
+      }
+    ]
+  }
+  
