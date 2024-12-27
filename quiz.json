@@ -11,9 +11,7 @@
         "question": "Which Surah is known as 'The Heart of the Qur'an'?",
         "options": ["Surah Al-Baqarah", "Surah Yasin", "Surah Al-Fatiha", "Surah Ar-Rahman"],
         "answer": "Surah Yasin"
-      }
-    ],
-    "trueOrFalse": [
+      },
       {
         "question": "The Prophet Muhammad (PBUH) was born in the city of Madinah.",
         "options":["true","false"],
