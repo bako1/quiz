@@ -1,6 +1,9 @@
 {
     "quiz": [
+<<<<<<< HEAD
 
+=======
+>>>>>>> 283bb1eb9ea1d7ced3261a7be2726c1463d8642a
       {
         "question": "Which Surah is known as 'The Heart of the Qur'an'?",
         "options": ["Surah Al-Baqarah", "Surah Yasin", "Surah Al-Fatiha", "Surah Ar-Rahman"],
