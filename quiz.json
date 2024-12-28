@@ -1,12 +1,5 @@
 {
     "quiz": [
-
-
-      {
-        "question": "What is the night when the Qur'an was first revealed called?",
-        "options": ["Laylat al-Qadr", "Laylat al-Miraj", "Laylat al-Bara’ah", "Laylat al-Isra"],
-        "answer": "Laylat al-Qadr"
-      },
       {
         "question": "Which Surah is known as 'The Heart of the Qur'an'?",
         "options": ["Surah Al-Baqarah", "Surah Yasin", "Surah Al-Fatiha", "Surah Ar-Rahman"],
