@@ -1,24 +1,7 @@
 {
   "quiz": [
     { "question": "Which companion is known as 'The Sword of Allah'?", "options": ["Abu Bakr (RA)", "Umar ibn al-Khattab (RA)", "Khalid ibn al-Walid (RA)", "Ali ibn Abi Talib (RA)"], "answer": "Khalid ibn al-Walid (RA)" },
-    { "question": "Which surah of the Quran does not begin with 'Bismillah'?", "options": ["Surah Al-Baqarah", "Surah Al-Naml", "Surah At-Tawbah", "Surah Al-Fatiha"], "answer": "Surah At-Tawbah" },
-    { "question": "How many prophets are mentioned by name in the Quran?", "options": ["15", "25", "30", "40"], "answer": "25" },
-    { "question": "Which battle is mentioned in Surah Al-Imran?", "options": ["Battle of Badr", "Battle of Uhud", "Battle of Khandaq", "Battle of Hunayn"], "answer": "Battle of Uhud" },
-    { "question": "Who was the first person to accept Islam outside of the Prophet’s family?", "options": ["Abu Bakr (RA)", "Uthman ibn Affan (RA)", "Umar ibn al-Khattab (RA)", "Bilal ibn Rabah (RA)"], "answer": "Abu Bakr (RA)" },
-    { "question": "What is the significance of the cave of Hira?", "options": ["It was the hiding place during Hijrah", "It is where the first revelation was received", "It is where the Treaty of Hudaybiyyah was signed", "It is the place of the Battle of Badr"], "answer": "It is where the first revelation was received" },
-    { "question": "True or False: The Prophet Muhammad (PBUH) performed Hajj only once.", "options": ["True", "False"], "answer": "True" },
-    { "question": "Which caliph compiled the Quran into a single book?", "options": ["Abu Bakr (RA)", "Umar ibn al-Khattab (RA)", "Uthman ibn Affan (RA)", "Ali ibn Abi Talib (RA)"], "answer": "Uthman ibn Affan (RA)" },
-    { "question": "Who was the mother of Prophet Isa (AS)?", "options": ["Hajar", "Asiya", "Maryam", "Zainab"], "answer": "Maryam" },
-    { "question": "Which surah is the longest in the Quran?", "options": ["Surah Al-Fatiha", "Surah Al-Baqarah", "Surah An-Nisa", "Surah Al-Kahf"], "answer": "Surah Al-Baqarah" },
-    { "question": "What is the name of the Islamic calendar?", "options": ["Lunar Calendar", "Hijri Calendar", "Gregorian Calendar", "Islamic Solar Calendar"], "answer": "Hijri Calendar" },
-    { "question": "What was the name of Prophet Muhammad's (PBUH) father?", "options": ["Abdullah", "Abu Talib", "Abdul Muttalib", "Hamza"], "answer": "Abdullah" },
-    { "question": "What was the first word revealed in the Quran?", "options": ["Iqra", "Alhamdulillah", "Bismillah", "Subhanallah"], "answer": "Iqra" },
-    { "question": "Which prophet is known as 'Kaleemullah' (The one who spoke to Allah)?", "options": ["Prophet Musa (AS)", "Prophet Isa (AS)", "Prophet Ibrahim (AS)", "Prophet Nuh (AS)"], "answer": "Prophet Musa (AS)" },
-    { "question": "Which animal is mentioned in the Quran as carrying the Prophet in the Night Journey?", "options": ["Camel", "Horse", "Buraq", "Elephant"], "answer": "Buraq" },
-    { "question": "What is the Arabic term for seeking forgiveness from Allah?", "options": ["Sabr", "Tawbah", "Istighfar", "Tahajjud"], "answer": "Istighfar" },
-    { "question": "Which Islamic month comes after Ramadan?", "options": ["Shawwal", "Muharram", "Dhul-Hijjah", "Safar"], "answer": "Shawwal" },
-    { "question": "How many years did Prophet Muhammad (PBUH) spend in Makkah before migrating to Madinah?", "options": ["10", "13", "15", "23"], "answer": "13" },
-    { "question": "Which prophet was tested with extreme patience and suffering?", "options": ["Prophet Yunus (AS)", "Prophet Ayub (AS)", "Prophet Yusuf (AS)", "Prophet Lut (AS)"], "answer": "Prophet Ayub (AS)" },
+   
     { "question": "Which Sahabi was known for his beautiful recitation of the Quran and was called 'The Muadhin of the Prophet'?", "options": ["Abu Bakr (RA)", "Bilal ibn Rabah (RA)", "Umar ibn al-Khattab (RA)", "Abdullah ibn Mas'ud (RA)"], "answer": "Bilal ibn Rabah (RA)" }
   ]
 }
